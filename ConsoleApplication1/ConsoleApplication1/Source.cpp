@@ -8,5 +8,6 @@ int main()
 	cin.get();
 	cout << "hello world!" << "\n";
 	return 0;
+	cout << "hello world!" << "\n";
 
 }
