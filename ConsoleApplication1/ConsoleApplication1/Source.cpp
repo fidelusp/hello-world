@@ -6,7 +6,8 @@ int main()
 {
 	cout << "hello world!" << "\n";
 	cin.get();
-	cout << "zmiana\n";
+	cout << "zmiana numer2 \n";
+	
 	return 0;
 
 }
